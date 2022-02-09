@@ -22,7 +22,7 @@ marked.use({
   extensions: [blockTexExtension, inlineTexExtension]
 })
 
-let html = marked.parse(md)
+let html = marked.parse('your Markdown')
 // ...
 ```
 
