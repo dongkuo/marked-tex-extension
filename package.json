@@ -1,0 +1,23 @@
+{
+  "name": "marked-tex-extension",
+  "version": "1.0.0",
+  "description": "A tex extension for markedjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongkuo/marked-tex-extension.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongkuo/marked-tex-extension/issues"
+  },
+  "homepage": "https://github.com/dongkuo/marked-tex-extension#readme",
+  "devDependencies": {
+    "katex": "^0.15.2",
+    "marked": "^4.0.12"
+  }
+}
